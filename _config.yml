@@ -1,0 +1,2 @@
+# Fixes MIME type for audio files on GitHub Pages
+include: [_config.yml, *.mp3]
